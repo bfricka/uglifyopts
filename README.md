@@ -19,3 +19,6 @@ var uglifyopts = require('uglifyopts').beautify({
   }
 });
 ```
+
+## License
+MIT
