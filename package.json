@@ -1,12 +1,13 @@
 {
   "name": "uglifyopts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Uglify options",
   "main": "index.js",
   "author": {
     "name": "Brian Frichette",
     "email": "brian.frichette@gmail.com"
   },
+  "keywords": ["uglify", "minify", "options", "config"],
   "repository": {
     "type": "git",
     "url": "git@github.com:brian-frichette/uglifyopts.git"
