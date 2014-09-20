@@ -1,0 +1,19 @@
+{
+  "name": "uglifyopts",
+  "version": "0.1.0",
+  "description": "Uglify options",
+  "main": "index.js",
+  "author": {
+    "name": "Brian Frichette",
+    "email": "brian.frichette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brian-frichette/uglifyopts.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
